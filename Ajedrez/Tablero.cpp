@@ -13,7 +13,7 @@ void InicializarTablero(char tablero[FILA][COLUMNA]) {
 	}
 }
 
-void ImprimirTablero(char yablero[FILA][COLUMNA]) {
+void ImprimirTablero(char tablero[FILA][COLUMNA]) {
 
-
+	
 }

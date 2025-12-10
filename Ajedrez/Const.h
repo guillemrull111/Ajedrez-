@@ -1,3 +1,3 @@
 #pragma once
-#define FILA 8
-#define COLUMNA 8
+#define FILA 9
+#define COLUMNA 9
